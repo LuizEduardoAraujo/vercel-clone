@@ -1,5 +1,5 @@
 <h1 align="center">
-UI Clone #17 - Vercel (Homepage)
+# Vercel (Homepage)
 </h1>
 
            
