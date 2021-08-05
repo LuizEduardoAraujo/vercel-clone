@@ -16,8 +16,8 @@ Vercel (Homepage)
 - [x] SVG Images
 
 ## Start Dev Environment
-1.open git-bash and clone the repository
-2. Open project folder in `VSCode`
-3. Install `Live Server` and `Live Sass Compiler` extension
-4. Right click `index.html` > `Open with Live Server`
-5. Access the **generated address** in your browser 🚀
+1. open git-bash and clone the repository
+2.  Open project folder in `VSCode`
+3.  Install `Live Server` and `Live Sass Compiler` extension
+4.  Right click `index.html` > `Open with Live Server`
+5.  Access the **generated address** in your browser 🚀
