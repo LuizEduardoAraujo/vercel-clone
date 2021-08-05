@@ -1,6 +1,7 @@
 <h1>
 Vercel (Homepage)
 </h1>
+background:#00BFFF;
 
 <p align="center"><a href="https://vercel.com">Vercel Homepage</a> UI clone for study purposes.</p>
 
